@@ -1,2 +1,0 @@
-# PSB
-Przetwarzanie sygnałów biomedycznych 
