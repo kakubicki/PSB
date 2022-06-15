@@ -8,4 +8,4 @@ recording = sounddevice.rec(int(duration * fs), samplerate = fs, channels = 1)
 sounddevice.wait()
 print("Nagrywanie zakonczone")
 
-write("NowyPlik.wav", fs, recording) #zmienic nazwe podczas nagrywania
+write("NEW.wav", fs, recording) #zmienic nazwe podczas nagrywania
